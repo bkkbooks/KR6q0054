@@ -27,12 +27,12 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0054_000.yaml, hash: 'sha256:e1c75136f1ac9b7c407cc156b755b8795f66fdc30256826deb1127b176a9dcd6'}
+  - {seq: 0, filename: KR6q0054_000.yaml, hash: 'sha256:01c9f509638db9d468c896b5eb50719f911e506b29838c8106d5da8a6889d6c2'}
   - {seq: 1, filename: KR6q0054_001.yaml, hash: 'sha256:b4468cc473d63673b404eb6ab312718ce6b7d5be9692bea6398458f91e4b38fa'}
   - {seq: 2, filename: KR6q0054_002.yaml, hash: 'sha256:53c6cbbb1da9cbb414990552c9ef880089f45e58986738c88fae542d0ca01676'}
   - {seq: 3, filename: KR6q0054_003.yaml, hash: 'sha256:ecd81a22aa4b7b78b979f164cc9d24bff769e018aa6d6db7c20cb7103aee3cff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0054_000.markers.yaml, hash: 'sha256:b59aaf9d0350e08240440a13d601367936df5bc21b9f569717974fb8ef45f32c'}
+  - {seq: 0, role: markers, filename: assets/KR6q0054_000.markers.yaml, hash: 'sha256:f3651d9fb1ae7544bc80077a9b8ff9b58bc6a57d13c1faeb73f7d7b0f5cee001'}
   - {seq: 1, role: markers, filename: assets/KR6q0054_001.markers.yaml, hash: 'sha256:312080af048126bc248f8118ec8d2a120761761cb91088977e0a09d4544b9a2a'}
   - {seq: 2, role: markers, filename: assets/KR6q0054_002.markers.yaml, hash: 'sha256:423a4323ac40fa15526f5f469fe57d338999e760ba9f854c4de406dd1d8037a6'}
   - {seq: 3, role: markers, filename: assets/KR6q0054_003.markers.yaml, hash: 'sha256:333e8a1ecaa1258e9af41c7de5f146ab51338df0dabf2b7008ffc7ad4524a734'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0054_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 重刊汾陽和尚語錄疏
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0054_T_000-mulu-2
     span:
-    - front
+    - body
     - 782
     - 782
   label: 汾陽無德禪師語錄序
@@ -1187,7 +1187,7 @@ table_of_contents:
   label: 勸世
   type: mulu
   level: 1
-hash: sha256:38912ac9503bb2c470199156a8e26d842c31ea6b089d4226ca7e903a370b8147
+hash: sha256:9af3c130fe03e8cb0bec902776c6c3b2eb1c537b558fa3e1584cf30f913473a2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
